@@ -1,0 +1,20 @@
+.nav_bar a{
+    padding-left: 25px;
+    padding-right: 25px;
+    text-decoration: none;
+    color: azure;
+    font-size: 1.15em;
+}
+
+.nav_bar a:hover{
+    color: blue;
+}
+
+.nav_bar{
+    margin-left: 40px;
+}
+
+.navbar-brand{
+    padding-left: 35px;
+    padding-right: 35px;
+}
